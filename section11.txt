@@ -1,0 +1,18 @@
+// ケバブケース
+<h1 class="page-title"></h1>
+<h1 class="user-name-list"></h1>
+
+// スネークケース
+const header_height = 80;
+const user_message = "hello world";
+
+// パスカルケース
+class UserData {
+}
+
+class GamePlayer {
+}
+
+// キャメルケース
+const bookItem = {
+}
